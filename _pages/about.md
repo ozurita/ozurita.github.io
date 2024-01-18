@@ -11,7 +11,9 @@ profile:
   more_info: >
     <!-- <p>4011 Bravia Dove Loop</p>
     #<p>123 your address street</p> -->
+    <p>oozuritap"at"gmail.com
     <p>Las Cruces, NM 88001</p>
+    
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
