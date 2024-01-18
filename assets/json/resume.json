@@ -3,8 +3,8 @@
     "name": "Oscar Zurita",
     "label": "Electronics Engineer - Networking Administrator - Systems Administrator - Developer",
     "image": "",
-    "email": "oozurita at gmail.com",
-    "phone": "(575) 463-1504",
+    "email": "oozuritap"at"gmail.com",
+    "phone": "",
     "url": "https://ozurita.github.io",
     "summary": "An Electronics Engineer awarded for success in planning and operational improvements. An enthusiastic, self-motivated professional with a background in implementing and troubleshooting networking projects and security solutions with broad experience in Cisco Systems and Checkpoint products. As a Systems Administrator worked with different OS systems (Window, Linux, Unix)",
     "location": {
@@ -37,8 +37,8 @@
       "name": "Colorado Geological Survey at the Colorado School of Mines. Denver, CO. USA.",
       "position": "IT – WEB DEVELOPER CONSULTANT",
       "url": "https://www.dews-ingramgulch.com/",
-      "startDate": "04/2022",
-      "endDate": "09/2022",
+      "startDate": "04-2022",
+      "endDate": "09-2022",
       "summary": "Designed and implemented the website and the architecture to communicate between field sensors and the server to collect data. Designed and implemented the system to show data of sensors in the website in Real-time. Developed a dynamic web page using D3 and MySQL.",
       "highlights": ["Programing Python, D3 "]
     },
@@ -59,8 +59,8 @@
       "name": "THASK – Technology Services – La Paz, BOLIVIA.",
       "position": "IT CONSULTANT (Remote)",
       "url": "",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "05-2019",
+      "endDate": "04-2021",
       "summary": "Discussed project progress with customers with different backgrounds, collected feedback on different stages, and directly addressed concerns. Configured and managed networking solutions, security systems, intrusion detection systems, and operating systems (Cisco and Fortinet) during the first stages of the project.",
       "highlights": ["Cisco, Fortinet"]
     },
