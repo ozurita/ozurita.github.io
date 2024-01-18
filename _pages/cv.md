@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: 11. CV
 nav: true
 nav_order: 3
 cv_pdf: cvozurita.pdf
