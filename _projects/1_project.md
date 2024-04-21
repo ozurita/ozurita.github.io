@@ -21,11 +21,11 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
+    description: IoT Irrigation System
     img: /assets/img/12.jpg
     ---
 
-   
+   <iframe src="https://iot.app.initialstate.com/embed/#/tiles/bkt_31xv28lv8tmmvo"></iframe>
     
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
