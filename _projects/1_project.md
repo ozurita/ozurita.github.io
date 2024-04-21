@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 
-<iframe src="https://iot.app.initialstate.com/embed/#/tiles/bkt_31xv28lv8tmmvo"></iframe><div class="row">
+<div class="row">
 
     
 Every project has a beautiful feature showcase page.
@@ -20,13 +20,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
+    title: Project ET-505
     description: IoT Irrigation System
     img: /assets/img/12.jpg
     ---
-
+<div>
    <iframe src="https://iot.app.initialstate.com/embed/#/tiles/bkt_31xv28lv8tmmvo"></iframe>
-    
+</div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
