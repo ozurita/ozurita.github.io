@@ -2,7 +2,7 @@
 layout: page
 title: IoT Irriation System
 description: Automatization of an irrigation system with two sensors
-img: assets/img/12.jpg
+img: assets/img/101.png
 importance: 1
 category: work
 related_publications: true
