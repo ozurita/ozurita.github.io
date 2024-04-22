@@ -11,7 +11,7 @@ related_publications: true
 
 <div class="row">
 
-    
+    <div> Oscar Zurita </div>
 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
